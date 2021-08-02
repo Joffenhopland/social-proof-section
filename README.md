@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://joffenhopland.github.io/social-proof-section/](https://joffenhopland.github.io/social-proof-section/)
 
 ## My process
 
@@ -52,4 +52,4 @@ Understand flexbox and grid better.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@joffenhopland](https://www.frontendmentor.io/profile/joffenhopland)
