@@ -29,7 +29,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [https://joffenhopland.github.io/social-proof-section/](https://joffenhopland.github.io/social-proof-section/)
 
 ## My process
